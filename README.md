@@ -1,4 +1,4 @@
-# Projet : Réduction de la taille des modèles en Deep Learning
+# Projet : DL models optimization : Pruning, Quantization, Knowledge Distillation 
 
 Ce projet a pour but d'explorer trois techniques populaires permettant d'optimiser les modèles de deep learning afin de les rendre plus rapides et moins gourmands en ressources, sans sacrifier (ou très peu) la précision.
 

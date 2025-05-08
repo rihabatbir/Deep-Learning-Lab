@@ -35,7 +35,7 @@ Ce notebook montre comment un modèle simple (appelé étudiant) peut être entr
 
 ---
 
-#2. `pruning.ipynb` – Pruning
+# 2. `pruning.ipynb` – Pruning
 
 L’objectif ici est de supprimer les connexions inutiles dans un réseau, pour le rendre plus léger.
 
